@@ -1,0 +1,9 @@
+After made branch "topic/ex001",
+make this file at master branch.
+
+
+ex003
+rebase...
+"readme.txt" L.6 change at master branch and "topic/ex001"branch.
+Conflict happen!
+
